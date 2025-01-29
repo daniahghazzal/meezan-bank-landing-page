@@ -75,4 +75,18 @@ height:60px
 
  }
 
+ .whitebrdr{
+
+    
+    border-right:1px solid white ;
+    height: 90px;
+ }
+
+
+ .borderline{
+
+border-left: 1px solid rgb(99, 97, 97);
+
+ }
+
  
